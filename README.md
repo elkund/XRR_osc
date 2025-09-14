@@ -2,7 +2,7 @@ This notebook provides an interactive GUI for oscillation analaysis of XRR data.
 
 ![Screenshot of XRR_osc](/XRR_osc.png)
 
-## Copyright (c) [2025] [Tobias Eklund]
+ Copyright &copy 2025 Tobias Eklund
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
