@@ -1,17 +1,6 @@
-Bi-layer XRR oscillations are given by
-$$ \sim \cos\left( l \sqrt{q^2-q_c^2}\right),$$
-where $l$ is the layer surface distance and $q_c$ is the momentum transfer corresponding to the critical angle. With $x$ defined as
-$$ x = \frac{1}{2\pi}\sqrt{q^2-q_c^2}, $$
-we can find $l$ as the singular peak in the the fourier transform
-$$\int \cos\left(2\pi l x\right)\, e^{-i2\pi l' x}\;dx = \frac{1}{2}\delta\left( l'-l\right),\quad \text{for }\; l'>0.$$
+This notebook provides an interactive GUI for oscillation analaysis of XRR data. The screenshot XRR_osc.png should be explanatory enough.
 
-This notebook provides an interactive GUI for oscillation analaysis per the above. The screenshot below shows an example result (layer thickness of 39 nm).
-
-<center>
-<div>
-<img src="XRR_osc.png" width="600"/>
-</div>
-</center>
+(XRR_osc.png)
 
 ## Copyright (c) [2025] [Tobias Eklund]
 
