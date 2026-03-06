@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "XRR_osc: XRR oscillation analysis GUI with Jupyter"
+type: software
+authors:
+  - family-names: Eklund
+    given-names: Tobias
+    orcid: ""
+repository-code: "https://github.com/elkund/XRR_osc"
+date-released: "2025-09-14"
+abstract: >-
+  Interactive GUI for oscillation analysis of X-ray
+  reflectivity (XRR) data, implemented as a Jupyter
+  notebook.
+keywords:
+  - x-ray reflectivity
+  - XRR
+  - oscillation analysis
+  - jupyter
